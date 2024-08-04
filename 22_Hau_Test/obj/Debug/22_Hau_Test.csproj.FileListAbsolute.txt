@@ -1,0 +1,96 @@
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\linux\selenium-manager
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\macos\selenium-manager
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Data\22_Hau_DataTestLogin.csv
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\22_Hau_Test.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\22_Hau_Test.pdb
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Newtonsoft.Json.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\WebDriver.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Newtonsoft.Json.xml
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\WebDriver.xml
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.AssemblyReference.cache
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.CoreCompileInputs.cache
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.CopyComplete
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.dll
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.pdb
+D:\ktpm(2)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Data\22_Hau_DataTestSearch.csv
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Data\22_Hau_DataTestLogin.csv
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Data\22_Hau_DataTestSearch.csv
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\22_Hau_Test.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\22_Hau_Test.pdb
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Newtonsoft.Json.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\WebDriver.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\Newtonsoft.Json.xml
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\bin\Debug\WebDriver.xml
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.AssemblyReference.cache
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.CoreCompileInputs.cache
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.CopyComplete
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\obj\Debug\22_Hau_Test.dll
+D:\Kiểm Thử phần mềm\22_Hau_N1_TestWebSpeakLanguage\22_Hau_Test\obj\Debug\22_Hau_Test.pdb
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Data\22_Hau_DataTestLogin.csv
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Data\22_Hau_DataTestSearch.csv
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\22_Hau_Test.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\22_Hau_Test.pdb
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Newtonsoft.Json.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\WebDriver.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Newtonsoft.Json.xml
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\bin\Debug\WebDriver.xml
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.AssemblyReference.cache
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.CoreCompileInputs.cache
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.CopyComplete
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.dll
+D:\Kiểm Thử phần mềm\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.pdb
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\linux\selenium-manager
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\macos\selenium-manager
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Data\22_Hau_DataTestLogin.csv
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Data\22_Hau_DataTestSearch.csv
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\22_Hau_Test.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\22_Hau_Test.pdb
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Newtonsoft.Json.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\WebDriver.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\Newtonsoft.Json.xml
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\bin\Debug\WebDriver.xml
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.AssemblyReference.cache
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.CoreCompileInputs.cache
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.csproj.CopyComplete
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.dll
+D:\ktpm(1)\22_Hau_BaoCao\22_Hau_Test\obj\Debug\22_Hau_Test.pdb

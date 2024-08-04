@@ -1,0 +1,5 @@
+﻿email,password,expectedResult
+2151050122hau@ou.edu.vn,Hau23092003,https://www.speaklanguages.com/
+,abc111,Please enter your email address.
+abc@gmail.com,,Please enter your password.
+xyz@gmai.com,Abc123,The login details you entered are incorrect.
